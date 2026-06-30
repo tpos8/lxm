@@ -21,7 +21,7 @@ python3 -m http.server 8000
 
 然后打开 `http://localhost:8000`。
 
-## 部署到 GitHub Pages
+## 部署到 GitHub Pages   
 
 1. 新建 GitHub 仓库并上传本文件夹内的全部文件。
 2. 打开仓库 `Settings → Pages`。
